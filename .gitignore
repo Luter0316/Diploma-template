@@ -10,3 +10,7 @@
 **/*~
 **/*.kate-swp
 **/*.swp
+**/*.nav
+**/*.snm
+**/*.vrb
+*.synctex*
